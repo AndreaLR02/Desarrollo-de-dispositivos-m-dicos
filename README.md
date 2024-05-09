@@ -1,16 +1,3 @@
-# individual
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La aplicación muestra un video de una presentacion de patinaje artístico de los Juegos Olímpicos de 2018.
+El código mostrado fue tomado del repositorio https://github.com/rsanlazaro/flutter_pedro.git
+Los cambios realizados abarcan el cambio de video, se agrega también un ícono en la esquina superior izquierda, al igual que se realiza el cambio del título y el color de la aplicación.
